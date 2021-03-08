@@ -1,3 +1,6 @@
 function a() {
     alert('develop function');
 }
+function c() {
+    alert('release function');
+}
