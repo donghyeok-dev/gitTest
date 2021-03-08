@@ -1,3 +1,6 @@
+function z() {
+    alert('develop function2');
+}
 function a() {
     alert('develop function');
 }
