@@ -4,6 +4,6 @@ function z() {
 function a() {
     alert('develop function');
 }
-function c() {
+function c(develop1) {
     alert('release function');
 }
