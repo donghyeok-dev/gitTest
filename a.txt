@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function z() {
     alert('develop function2');
 }
@@ -7,3 +8,7 @@ function a() {
 function c(develop1) {
     alert('release function');
 }
+=======
+change
+d
+>>>>>>> 180a473cbd206ba6a565e7233c1dc118b3961e3c
